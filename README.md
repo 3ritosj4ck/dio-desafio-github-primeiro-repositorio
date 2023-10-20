@@ -1,6 +1,18 @@
 # Desafio de Projeto sobre Git/Github da Dio.
 Repositório criado para o Desafio de Projeto
 
+My name is Erick Oliveira! But you can call me 3ritosJ4ck.
+10 years of customer service experience. (Embratel, Wizard)
+6 years of experience with fraude prevention. (PicPay)
+Studying programming with DIO.
+
+
+
+### Soft Skills
+![Communicative](https://img.shields.io/badge/Communicative-red)
+![Proactive](https://img.shields.io/badge/Proactive-blue)
+![Organized](https://img.shields.io/badge/Organized-red)
+![Empathetic](https://img.shields.io/badge/Empathetic-blue)
 
 
 ### Social Media
